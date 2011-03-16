@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{French language dictionary for Ipsum}
   s.description = %q{French language dictionary for Ipsum}
 
-  s.add_dependency "ipsum", ">= 1.2.0"
+  s.add_dependency "ipsum-core", ">= 2.0.0"
 
   s.add_development_dependency "bundler", ">= 1.0.0"
   s.add_development_dependency "rake", ">= 0.8.7"
